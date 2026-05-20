@@ -138,28 +138,22 @@ cv:
       - bullet: "**Estadística Descriptiva para Ciencia de Datos** — Platzi"
 
 design:
-  theme: engineeringresumes
-  page:
-    size: a4
-    top_margin: 1.5cm
-    bottom_margin: 1.5cm
-    left_margin: 1.5cm
-    right_margin: 1.5cm
-    show_page_numbering: false
-    show_last_updated_date: false
-  text:
-    font_family: Montserrat
-    font_size: 9pt
-  links:
-    underline: false
-    use_external_link_icon: true
+  theme: classic
   colors:
-    name: rgb(0, 79, 144)
-    section_titles: rgb(0, 79, 144)
-    links: rgb(0, 79, 144)
+    name: rgb(0, 0, 0)
+    section_titles: rgb(0, 0, 0)
+    links: rgb(0, 0, 0)
+    connections: rgb(0, 0, 0)
+  typography:
+    font_family:
+      body: Montserrat
+      name: Montserrat
+      headline: Montserrat
+      connections: Montserrat
+      section_titles: Montserrat
+    font_size:
+      body: 9pt
+      name: 28pt
 
 locale:
-  language: en
-  phone_number_format: national
-  date_template: MONTH_ABBREVIATION YEAR
-  to: "–"
+  language: english
