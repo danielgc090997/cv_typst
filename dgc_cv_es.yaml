@@ -172,3 +172,29 @@ locale:
   phone_number_format: national
   date_template: MONTH_ABBREVIATION YEAR
   to: "–"
+  abbreviations_for_months:
+    - Ene
+    - Feb
+    - Mar
+    - Abr
+    - May
+    - Jun
+    - Jul
+    - Ago
+    - Sep
+    - Oct
+    - Nov
+    - Dic
+  full_names_of_months:
+    - Enero
+    - Febrero
+    - Marzo
+    - Abril
+    - Mayo
+    - Junio
+    - Julio
+    - Agosto
+    - Septiembre
+    - Octubre
+    - Noviembre
+    - Diciembre

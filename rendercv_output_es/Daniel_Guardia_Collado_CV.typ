@@ -519,7 +519,7 @@
     #strong[Ingeniero de Analytics de Datos], Intelica Consulting -- Lima, Perú
   ],
   right-content: [
-    Jan 2025 – May 2025
+    Ene 2025 – May 2025
   ],
 )
 #one-col-entry(
@@ -534,7 +534,7 @@
     #strong[Analista de Datos], Santander Perú - Surgir -- Lima, Perú
   ],
   right-content: [
-    July 2024 – Jan 2025
+    Jul 2024 – Ene 2025
   ],
 )
 #one-col-entry(
@@ -549,7 +549,7 @@
     #strong[Analista de Negocios Junior], Grupo BC - Cibergestión -- Lima, Perú
   ],
   right-content: [
-    Mar 2024 – July 2024
+    Mar 2024 – Jul 2024
   ],
 )
 #one-col-entry(
@@ -584,7 +584,7 @@
     #strong[Universidad Nacional de Ingeniería \(UNI\)], Especialización in Business Intelligence & Business Analytics -- Lima, Perú
   ],
   right-content: [
-    Jan 2024 – Jan 2025
+    Ene 2024 – Ene 2025
   ],
 )
 #block(
@@ -605,7 +605,7 @@
     #strong[Universidad Peruana de Ciencias Aplicadas \(UPC\)], Bachiller in Finanzas con Especialización en Ciencia de Datos -- Lima, Perú
   ],
   right-content: [
-    Jan 2019 – Dec 2024
+    Ene 2019 – Dic 2024
   ],
 )
 #block(
@@ -626,7 +626,7 @@
     #strong[IPAE], Egresado in Administración de Empresas -- Lima, Perú
   ],
   right-content: [
-    Jan 2016 – June 2018
+    Ene 2016 – Jun 2018
   ],
 )
 #block(

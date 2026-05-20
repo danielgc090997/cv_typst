@@ -30,14 +30,14 @@ Analista Senior de Datos e Ingeniero de IA en BCP (principal banco del Perú) co
 
 ## Intelica Consulting, Ingeniero de Analytics de Datos
 
-- Jan 2025 – May 2025
+- Ene 2025 – May 2025
 - Lima, Perú
 - Implementación de procesos ETL para integración de datos desde múltiples fuentes hacia un Data Warehouse mediante procedimientos almacenados en SQL Server.
 - Desarrollo de reportes automatizados para unidades de negocio clave del sector bancario, mejorando la gestión del portafolio de tarjetas de crédito y débito.
 
 ## Santander Perú - Surgir, Analista de Datos
 
-- July 2024 – Jan 2025
+- Jul 2024 – Ene 2025
 - Lima, Perú
 - Automatización de procesos ETL mediante Power Automate para insumos de modelos estadísticos.
 - Recopilación del puntaje crediticio mediante la API de Experian con PySpark, reduciendo significativamente el tiempo de extracción de datos.
@@ -46,7 +46,7 @@ Analista Senior de Datos e Ingeniero de IA en BCP (principal banco del Perú) co
 
 ## Grupo BC - Cibergestión, Analista de Negocios Junior
 
-- Mar 2024 – July 2024
+- Mar 2024 – Jul 2024
 - Lima, Perú
 - Construcción de dashboards interactivos en Power BI a partir de bases de datos contables y financieras para reporting gerencial.
 - Elaboración de modelos financieros con simulación de escenarios, análisis de sensibilidad y evaluación de riesgos.
@@ -64,21 +64,21 @@ Analista Senior de Datos e Ingeniero de IA en BCP (principal banco del Perú) co
 
 ## Universidad Nacional de Ingeniería (UNI), Especialización in Business Intelligence & Business Analytics
 
-- Jan 2024 – Jan 2025
+- Ene 2024 – Ene 2025
 - Lima, Perú
 - Promedio: Mayor a 18/20
 - Cursos: Análisis de Datos, Visualización, Machine Learning, Big Data
 
 ## Universidad Peruana de Ciencias Aplicadas (UPC), Bachiller in Finanzas con Especialización en Ciencia de Datos
 
-- Jan 2019 – Dec 2024
+- Ene 2019 – Dic 2024
 - Lima, Perú
 - Promedio: Mayor a 16/20 — Lista del Decano, Décimo Superior
 - Cursos: Econometría, Ciencia de Datos, Finanzas Corporativas, Contabilidad
 
 ## IPAE, Egresado in Administración de Empresas
 
-- Jan 2016 – June 2018
+- Ene 2016 – Jun 2018
 - Lima, Perú
 - Promedio: Mayor a 17/20 — Tercio Superior
 
