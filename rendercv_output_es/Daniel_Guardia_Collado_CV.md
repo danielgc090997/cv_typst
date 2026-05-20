@@ -13,7 +13,7 @@ Analista Senior de Datos e Ingeniero de IA en BCP (principal banco del Perú) co
 
 ## Banco de Crédito del Perú (BCP), Analista Senior de Pricing & Datos / Ingeniero de IA
 
-- May 2025 – present
+- May 2025 – Actualidad
 - Lima, Perú
 - Creación de un agente conversacional con IA end-to-end desplegado a más de 200 personas de la banca mayorista, usando Databricks y LLMs (Claude Sonnet).
 - Automatización de procesos de extracción, transformación y análisis de datos mediante SQL, Python y Databricks, reduciendo significativamente tiempos operativos.
@@ -23,7 +23,7 @@ Analista Senior de Datos e Ingeniero de IA en BCP (principal banco del Perú) co
 
 ## DMC Perú, Asesor de Aprendizaje Python & SQL
 
-- Nov 2024 – present
+- Nov 2024 – Actualidad
 - Lima, Perú
 - Dictado de cursos de Python con enfoque en estadística, análisis exploratorio, visualización de datos y storytelling.
 - Dictado de cursos de SQL con enfoque en construcción de queries, Data Warehousing, modelado de datos y Oracle PL/SQL.

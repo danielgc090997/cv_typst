@@ -489,7 +489,7 @@
     #strong[Analista Senior de Pricing & Datos \/ Ingeniero de IA], Banco de Crédito del Perú \(BCP\) -- Lima, Perú
   ],
   right-content: [
-    May 2025 – present
+    May 2025 – Actualidad
   ],
 )
 #one-col-entry(
@@ -504,7 +504,7 @@
     #strong[Asesor de Aprendizaje Python & SQL], DMC Perú -- Lima, Perú
   ],
   right-content: [
-    Nov 2024 – present
+    Nov 2024 – Actualidad
   ],
 )
 #one-col-entry(

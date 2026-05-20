@@ -172,6 +172,7 @@ locale:
   phone_number_format: national
   date_template: MONTH_ABBREVIATION YEAR
   to: "–"
+  present: "Actualidad"
   abbreviations_for_months:
     - Ene
     - Feb
