@@ -1,0 +1,165 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.3/schema.json
+
+cv:
+  name: Daniel Guardia Collado
+  email: dguardiacollado@gmail.com
+  phone: +51-959-070-464
+  social_networks:
+    - network: LinkedIn
+      username: daniel-guardia-collado
+
+  sections:
+    Summary:
+      - "Senior Data Analyst & AI Engineer at BCP (Peru's largest bank) with experience
+         building end-to-end GenAI solutions on Databricks using LLMs. Background in
+         finance and data science, with hands-on expertise in Python, SQL, Polars, and
+         Power BI. Currently developing agentic AI pipelines for wholesale banking analytics.
+         Targeting remote international roles in ML/AI Engineering by 2027."
+
+    Work Experience:
+      - company: Banco de Crédito del Perú (BCP)
+        position: Senior Pricing & Data Analyst / AI Engineer
+        start_date: 2025-05
+        end_date: present
+        location: Lima, Peru
+        highlights:
+          - Built an end-to-end conversational AI agent deployed to 200+ people
+            across wholesale banking, using Databricks and LLMs (Claude Sonnet).
+          - Automated data extraction, transformation and analysis pipelines using
+            SQL, Python and Databricks, significantly reducing operational times.
+          - Developed predictive models for rate optimization and customer behavior
+            analysis, improving commercial and pricing strategy.
+          - Designed analytical dashboards for commercial performance, profitability
+            and client behavior monitoring in wholesale banking.
+          - Promoted self-service analytics within the team, reducing dependency
+            on specialized data and model teams.
+
+      - company: DMC Perú
+        position: Python & SQL Learning Advisor
+        start_date: 2024-11
+        end_date: present
+        location: Lima, Peru
+        highlights:
+          - Teach Python courses focused on statistics, exploratory data analysis,
+            data visualization and storytelling.
+          - Teach SQL courses covering query building, Data Warehousing, data
+            modeling and Oracle PL/SQL.
+
+      - company: Intelica Consulting
+        position: Data Analytics Engineer
+        start_date: 2025-01
+        end_date: 2025-05
+        location: Lima, Peru
+        highlights:
+          - Implemented ETL processes integrating data from multiple sources into
+            a Data Warehouse using SQL Server stored procedures.
+          - Developed automated reports for key banking business units, improving
+            credit and debit card portfolio management.
+
+      - company: Santander Perú - Surgir
+        position: Data Analyst
+        start_date: 2024-07
+        end_date: 2025-01
+        location: Lima, Peru
+        highlights:
+          - Automated ETL processes via Power Automate for statistical model inputs.
+          - Extracted credit scores via Experian API using PySpark, significantly
+            reducing data extraction time.
+          - Advanced SQL usage on Databricks for integration, transformation and
+            scheduled report execution for SBS regulatory reporting.
+          - Applied classification models (Decision Trees, Logistic Regression,
+            XGBoost) to predict customer payment default probability.
+
+      - company: Grupo BC - Cibergestión
+        position: Junior Business Analyst
+        start_date: 2024-03
+        end_date: 2024-07
+        location: Lima, Peru
+        highlights:
+          - Built interactive Power BI dashboards from financial and accounting
+            databases for executive reporting.
+          - Developed financial models with scenario simulation, sensitivity
+            analysis and risk evaluation.
+          - Applied econometric linear regression to project macroeconomic
+            variables in the banking sector.
+
+      - company: Ernst & Young Perú
+        position: Business Analyst
+        start_date: 2023-05
+        end_date: 2024-03
+        location: Lima, Peru
+        highlights:
+          - Delivered benchmark analysis for new business rule methodologies,
+            generating 3M+ USD in marginal financial income for banking clients.
+          - Built a propensity model in Python (logistic regression) to identify
+            high-probability credit customers, validated through A/B testing.
+          - Conducted statistical and trend analyses using SQL and Power BI for
+            LatAm banking process improvements (Peru, Mexico, Canada, Panama).
+
+    Education:
+      - institution: Universidad Nacional de Ingeniería (UNI)
+        area: Business Intelligence & Business Analytics
+        degree: Specialization
+        start_date: 2024-01
+        end_date: 2025-01
+        location: Lima, Peru
+        highlights:
+          - "GPA: Above 18/20"
+          - "Relevant courses: Data Analysis, Data Visualization, Machine Learning, Big Data"
+
+      - institution: Universidad Peruana de Ciencias Aplicadas (UPC)
+        area: Finance with Data Science Specialization
+        degree: Bachelor's Degree
+        start_date: 2019-01
+        end_date: 2024-12
+        location: Lima, Peru
+        highlights:
+          - "GPA: Above 16/20 — Dean's List, Top 10%"
+          - "Relevant courses: Econometrics, Data Science, Corporate Finance, Accounting"
+
+    Skills:
+      - label: AI / GenAI
+        details: LLMs, Claude (Anthropic), Prompt Engineering, Agentic AI, Databricks, MLflow
+      - label: Programming
+        details: Python (Pandas, Polars, Scikit-Learn, XGBoost, PySpark), R, SQL
+      - label: Databases
+        details: Oracle PL/SQL, SQL Server, MySQL, Databricks SQL
+      - label: Visualization
+        details: Power BI, Tableau, Matplotlib, Plotly
+      - label: Cloud & Tools
+        details: Azure, Databricks, Power Automate, SSIS, Git, Model Serving
+      - label: Languages
+        details: Spanish (native), English (advanced), French (advanced), Portuguese (intermediate)
+
+    Certifications:
+      - bullet: "**Pricing & Revenue Management** — Pacifico Business School"
+      - bullet: "**Data Analyst Career** — Platzi (18 courses: NumPy, Pandas, Sklearn, SQL, Power BI)"
+      - bullet: "**Machine Learning with Python** — IBM (16 hrs)"
+      - bullet: "**Estadística Descriptiva para Ciencia de Datos** — Platzi"
+
+design:
+  theme: engineeringresumes
+  page:
+    size: a4
+    top_margin: 1.5cm
+    bottom_margin: 1.5cm
+    left_margin: 1.5cm
+    right_margin: 1.5cm
+    show_page_numbering: false
+    show_last_updated_date: false
+  text:
+    font_family: Montserrat
+    font_size: 9pt
+  links:
+    underline: false
+    use_external_link_icon: true
+  colors:
+    name: rgb(0, 79, 144)
+    section_titles: rgb(0, 79, 144)
+    links: rgb(0, 79, 144)
+
+locale:
+  language: en
+  phone_number_format: national
+  date_template: MONTH_ABBREVIATION YEAR
+  to: "–"
