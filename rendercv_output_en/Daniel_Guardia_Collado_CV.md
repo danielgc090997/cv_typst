@@ -31,7 +31,7 @@ May 2025 – present
 
 Lima, Peru
 
-Nov 2024 – present
+Nov 2024 – May 2025
 
 - Teach Python courses focused on statistics, exploratory data analysis, data visualization and storytelling.
 

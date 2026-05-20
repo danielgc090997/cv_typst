@@ -136,7 +136,7 @@ Senior Data Analyst & AI Engineer at BCP (Peru's largest bank) with experience b
   [
     Lima, Peru
 
-    Nov 2024 – present
+    Nov 2024 – May 2025
 
   ],
 )

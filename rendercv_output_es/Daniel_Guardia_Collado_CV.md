@@ -27,11 +27,11 @@ May 2025 – Presente
 
 
 
-## **DMC Perú**, Asesor de Aprendizaje Python & SQL
+## **DMC Perú**, Docente Python & SQL
 
 Lima, Perú
 
-Nov 2024 – Presente
+Nov 2024 – May 2025
 
 - Dictado de cursos de Python con enfoque en estadística, análisis exploratorio, visualización de datos y storytelling.
 

@@ -126,7 +126,7 @@ Analista Senior de Datos e Ingeniero de IA en BCP (principal banco del Perú) co
 
 #regular-entry(
   [
-    #strong[DMC Perú], Asesor de Aprendizaje Python & SQL
+    #strong[DMC Perú], Docente Python & SQL
 
     - Dictado de cursos de Python con enfoque en estadística, análisis exploratorio, visualización de datos y storytelling.
 
@@ -136,7 +136,7 @@ Analista Senior de Datos e Ingeniero de IA en BCP (principal banco del Perú) co
   [
     Lima, Perú
 
-    Nov 2024 – Presente
+    Nov 2024 – May 2025
 
   ],
 )
