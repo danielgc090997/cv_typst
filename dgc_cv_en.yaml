@@ -1,60 +1,51 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.3/schema.json
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
 
 cv:
   name: Daniel Guardia Collado
   email: dguardiacollado@gmail.com
-  phone: +51-959-070-464
+  phone: +51-959070464
   social_networks:
     - network: LinkedIn
-      username: daniel-guardia-collado
+      username: danielguardiac
+    - network: GitHub
+      username: danielgc97
 
   sections:
     Summary:
-      - "Senior Data Analyst & AI Engineer at BCP (Peru's largest bank) with experience
-         building end-to-end GenAI solutions on Databricks using LLMs. Background in
-         finance and data science, with hands-on expertise in Python, SQL, Polars, and
-         Power BI. Currently developing agentic AI pipelines for wholesale banking analytics.
-         Targeting remote international roles in ML/AI Engineering by 2027."
+      - "Senior Data Analyst & AI Engineer with experience in financial analytics,
+        machine learning and GenAI solutions at BCP, Peru's largest bank. Led the
+        end-to-end development and deployment of a conversational AI agent for 200+
+        wholesale banking users using Databricks and Claude Sonnet (Anthropic). Skilled
+        in data pipeline automation, predictive modeling and business analytics using
+        Python, SQL, Polars and Power BI. Targeting international opportunities in
+        AI Engineering, Machine Learning and Data Platforms."
 
-    Work Experience:
+    Experience:
       - company: Banco de Crédito del Perú (BCP)
-        position: Senior Pricing & Data Analyst / AI Engineer
+        position: Senior Data Analyst & AI Engineer
         start_date: 2025-05
         end_date: present
         location: Lima, Peru
         highlights:
-          - Built an end-to-end conversational AI agent deployed to 200+ people
-            across wholesale banking, using Databricks and LLMs (Claude Sonnet).
+          - Built and deployed an end-to-end conversational AI agent for 200+ wholesale
+            banking users using Databricks and Claude Sonnet (Anthropic).
           - Automated data extraction, transformation and analysis pipelines using
-            SQL, Python and Databricks, significantly reducing operational times.
-          - Developed predictive models for rate optimization and customer behavior
-            analysis, improving commercial and pricing strategy.
-          - Designed analytical dashboards for commercial performance, profitability
-            and client behavior monitoring in wholesale banking.
-          - Promoted self-service analytics within the team, reducing dependency
-            on specialized data and model teams.
-
-      - company: DMC Perú
-        position: Python & SQL Learning Advisor
-        start_date: 2024-11
-        end_date: 2025-05
-        location: Lima, Peru
-        highlights:
-          - Teach Python courses focused on statistics, exploratory data analysis,
-            data visualization and storytelling.
-          - Teach SQL courses covering query building, Data Warehousing, data
-            modeling and Oracle PL/SQL.
+            SQL, Python and Databricks, reducing manual work and operational times.
+          - Designed and implemented predictive models for rate optimization and
+            customer behavior analysis.
+          - Built analytical dashboards for commercial performance, profitability
+            and strategic metrics monitoring in wholesale banking.
 
       - company: Intelica Consulting
         position: Data Analytics Engineer
         start_date: 2025-01
-        end_date: 2026-05
+        end_date: 2025-05
         location: Lima, Peru
         highlights:
-          - Implemented ETL processes integrating data from multiple sources into
-            a Data Warehouse using SQL Server stored procedures.
-          - Developed automated reports for key banking business units, improving
-            credit and debit card portfolio management.
+          - Developed ETL processes into a Data Warehouse using SQL Server
+            stored procedures and data modeling.
+          - Automated analytical reports for credit and debit card
+            portfolio monitoring.
 
       - company: Santander Perú - Surgir
         position: Data Analyst
@@ -62,26 +53,13 @@ cv:
         end_date: 2025-01
         location: Lima, Peru
         highlights:
-          - Automated ETL processes via Power Automate for statistical model inputs.
-          - Extracted credit scores via Experian API using PySpark, significantly
-            reducing data extraction time.
-          - Advanced SQL usage on Databricks for integration, transformation and
-            scheduled report execution for SBS regulatory reporting.
-          - Applied classification models (Decision Trees, Logistic Regression,
-            XGBoost) to predict customer payment default probability.
-
-      - company: Grupo BC - Cibergestión
-        position: Junior Business Analyst
-        start_date: 2024-03
-        end_date: 2024-07
-        location: Lima, Peru
-        highlights:
-          - Built interactive Power BI dashboards from financial and accounting
-            databases for executive reporting.
-          - Developed financial models with scenario simulation, sensitivity
-            analysis and risk evaluation.
-          - Applied econometric linear regression to project macroeconomic
-            variables in the banking sector.
+          - Automated ETL processes via Power Automate for statistical
+            model inputs and analytical workflows.
+          - Integrated Experian API using PySpark for credit score extraction,
+            significantly reducing processing times.
+          - Built advanced Databricks SQL queries for SBS regulatory reporting.
+          - Applied XGBoost and Logistic Regression models to predict
+            customer payment default probability.
 
       - company: Ernst & Young Perú
         position: Business Analyst
@@ -89,12 +67,21 @@ cv:
         end_date: 2024-03
         location: Lima, Peru
         highlights:
-          - Delivered benchmark analysis for new business rule methodologies,
-            generating 3M+ USD in marginal financial income for banking clients.
-          - Built a propensity model in Python (logistic regression) to identify
-            high-probability credit customers, validated through A/B testing.
-          - Conducted statistical and trend analyses using SQL and Power BI for
-            LatAm banking process improvements (Peru, Mexico, Canada, Panama).
+          - Delivered benchmark analysis generating 3M+ USD in marginal financial
+            income for banking clients across LatAm.
+          - Built a propensity model in Python (logistic regression) validated
+            through A/B testing to identify high-probability credit customers.
+          - Conducted SQL and Power BI analyses for banking process improvements
+            across Peru, Mexico, Canada and Panama.
+
+      - company: DMC Perú
+        position: Python & SQL Instructor
+        start_date: 2024-11
+        end_date: 2026-05
+        location: Lima, Peru
+        highlights:
+          - Part-time instructor for Python and SQL courses focused on analytics,
+            applied statistics and data storytelling.
 
     Education:
       - institution: Universidad Nacional de Ingeniería (UNI)
@@ -105,7 +92,6 @@ cv:
         location: Lima, Peru
         highlights:
           - "GPA: Above 18/20"
-          - "Relevant courses: Data Analysis, Data Visualization, Machine Learning, Big Data"
 
       - institution: Universidad Peruana de Ciencias Aplicadas (UPC)
         area: Finance with Data Science Specialization
@@ -115,7 +101,10 @@ cv:
         location: Lima, Peru
         highlights:
           - "GPA: Above 16/20 — Dean's List, Top 10%"
-          - "Relevant courses: Econometrics, Data Science, Corporate Finance, Accounting"
+
+    Certifications:
+      - bullet: "**Pricing & Revenue Management** — Pacifico Business School"
+      - bullet: "**AI Engineer Diplomado** — DMC Perú (in progress)"
 
     Skills:
       - label: AI / GenAI
@@ -127,18 +116,25 @@ cv:
       - label: Visualization
         details: Power BI, Tableau, Matplotlib, Plotly
       - label: Cloud & Tools
-        details: Azure, Databricks, Power Automate, SSIS, Git, Model Serving
+        details: Azure, Databricks, Power Automate, Git, Model Serving
       - label: Languages
         details: Spanish (native), English (advanced), French (advanced), Portuguese (intermediate)
 
-    Certifications:
-      - bullet: "**Pricing & Revenue Management** — Pacifico Business School"
-      - bullet: "**Data Analyst Career** — Platzi (18 courses: NumPy, Pandas, Sklearn, SQL, Power BI)"
-      - bullet: "**Machine Learning with Python** — IBM (16 hrs)"
-      - bullet: "**Estadística Descriptiva para Ciencia de Datos** — Platzi"
-
 design:
-  theme: classic
+  theme: engineeringclassic
+  page:
+    size: a4
+    top_margin: 1cm
+    bottom_margin: 1cm
+    left_margin: 1.2cm
+    right_margin: 1.2cm
+  header:
+    alignment: center
+    connections:
+      show_icons: true
+  links:
+    underline: false
+    show_external_link_icon: false
   colors:
     name: rgb(0, 0, 0)
     section_titles: rgb(0, 0, 0)
@@ -148,12 +144,12 @@ design:
     font_family:
       body: Montserrat
       name: Montserrat
-      headline: Montserrat
       connections: Montserrat
       section_titles: Montserrat
     font_size:
-      body: 9pt
-      name: 28pt
+      body: 8pt
+      name: 29pt
 
 locale:
   language: english
+  present: "Present"

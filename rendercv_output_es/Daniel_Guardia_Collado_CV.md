@@ -2,84 +2,69 @@
 
 - Phone: +51 959 070 464
 - Email: [dguardiacollado@gmail.com](mailto:dguardiacollado@gmail.com)
-- LinkedIn: [daniel-guardia-collado](https://linkedin.com/in/daniel-guardia-collado)
+- LinkedIn: [danielguardiac](https://linkedin.com/in/danielguardiac)
+- GitHub: [danielgc97](https://github.com/danielgc97)
 
 
 # Resumen
-Analista Senior de Datos e Ingeniero de IA en BCP (principal banco del Perú) con experiencia construyendo soluciones GenAI end-to-end en Databricks usando LLMs. Formación en finanzas y ciencia de datos, con dominio de Python, SQL, Polars y Power BI. Actualmente desarrollando pipelines de IA agéntica para analytics de banca mayorista.
+Senior Data Analyst & AI Engineer con experiencia en analytics financiero, machine learning y soluciones GenAI dentro de BCP. Lideré el desarrollo y despliegue de un agente conversacional basado en LLMs para más de 200 usuarios de banca mayorista utilizando Databricks y Claude Sonnet (Anthropic). Experiencia en automatización de pipelines de datos, modelamiento predictivo y analítica de negocio utilizando Python, SQL, Polars y Power BI. Interesado en oportunidades internacionales orientadas a AI Engineering, Machine Learning y Data Platforms.
 
-# Experiencia Laboral
-## **Analista Senior de Pricing & Datos / Ingeniero de IA**, Banco de Crédito del Perú (BCP) -- Lima, Perú
+# Experiencia
+## **Senior Data Analyst & AI Engineer**, Banco de Crédito del Perú (BCP) -- Lima, Perú
 
 May 2025 – Presente
 
-- Creación de un agente conversacional con IA end-to-end desplegado a más de 200 personas de la banca mayorista, usando Databricks y LLMs (Claude Sonnet).
+- Desarrollo y despliegue end-to-end de un agente conversacional basado en LLMs para más de 200 usuarios de banca mayorista utilizando Databricks y Claude Sonnet (Anthropic).
 
-- Automatización de procesos de extracción, transformación y análisis de datos mediante SQL, Python y Databricks, reduciendo significativamente tiempos operativos.
+- Automatización de pipelines de extracción, transformación y análisis de datos mediante SQL, Python y Databricks, optimizando tiempos operativos y reduciendo trabajo manual.
 
-- Diseño e implementación de modelos predictivos para optimización de tasas y evaluación del comportamiento de clientes, mejorando la estrategia comercial y de pricing.
+- Diseño e implementación de modelos predictivos para optimización de tasas y evaluación de comportamiento de clientes.
 
-- Desarrollo de dashboards analíticos para monitoreo de desempeño comercial, rentabilidad y comportamiento de clientes de Banca Mayorista.
-
-- Impulso de la autogestión analítica del equipo, reduciendo la dependencia de áreas especializadas de data y modelos.
+- Construcción de dashboards analíticos para monitoreo de desempeño comercial, rentabilidad y métricas estratégicas de Banca Mayorista.
 
 
 
-## **Docente Python & SQL**, DMC Perú -- Lima, Perú
-
-Nov 2024 – May 2026
-
-- Dictado de cursos de Python con enfoque en estadística, análisis exploratorio, visualización de datos y storytelling.
-
-- Dictado de cursos de SQL con enfoque en construcción de queries, Data Warehousing, modelado de datos y Oracle PL/SQL.
-
-
-
-## **Ingeniero de Analytics de Datos**, Intelica Consulting -- Lima, Perú
+## **Data Analytics Engineer**, Intelica Consulting -- Lima, Perú
 
 Ene 2025 – May 2025
 
-- Implementación de procesos ETL para integración de datos desde múltiples fuentes hacia un Data Warehouse mediante procedimientos almacenados en SQL Server.
+- Desarrollo de procesos ETL hacia Data Warehouse mediante stored procedures y modelamiento en SQL Server.
 
-- Desarrollo de reportes automatizados para unidades de negocio clave del sector bancario, mejorando la gestión del portafolio de tarjetas de crédito y débito.
+- Automatización de reportes analíticos para monitoreo de portafolios de tarjetas de crédito y débito.
 
 
 
-## **Analista de Datos**, Santander Perú - Surgir -- Lima, Perú
+## **Data Analyst**, Santander Perú - Surgir -- Lima, Perú
 
 Jul 2024 – Ene 2025
 
-- Automatización de procesos ETL mediante Power Automate para insumos de modelos estadísticos.
+- Automatización de procesos ETL utilizando Power Automate para abastecimiento de modelos estadísticos y procesos analíticos.
 
-- Recopilación del puntaje crediticio mediante la API de Experian con PySpark, reduciendo significativamente el tiempo de extracción de datos.
+- Integración de APIs de Experian mediante PySpark para extracción de scores crediticios, reduciendo significativamente tiempos de procesamiento.
 
-- Uso avanzado de SQL en Databricks para integración, transformación y ejecuciones programadas de reportes para la SBS.
+- Desarrollo de consultas avanzadas en Databricks SQL para reportería regulatoria a la SBS.
 
-- Aplicación de modelos de clasificación (árboles de decisión, regresión logística, XGBoost) para predecir la probabilidad de incumplimiento de pagos de clientes.
-
-
-
-## **Analista de Negocios Junior**, Grupo BC - Cibergestión -- Lima, Perú
-
-Mar 2024 – Jul 2024
-
-- Construcción de dashboards interactivos en Power BI a partir de bases de datos contables y financieras para reporting gerencial.
-
-- Elaboración de modelos financieros con simulación de escenarios, análisis de sensibilidad y evaluación de riesgos.
-
-- Modelamiento econométrico mediante regresión lineal para proyectar variables macroeconómicas del sector bancario.
+- Implementación de modelos de clasificación utilizando XGBoost y Regresión Logística para predicción de incumplimiento de pagos.
 
 
 
-## **Analista de Negocios**, Ernst & Young Perú -- Lima, Perú
+## **Business Analyst**, Ernst & Young Perú -- Lima, Perú
 
 May 2023 – Mar 2024
 
-- Benchmark de nuevas metodologías de reglas de negocio generando un aporte marginal de más de 3M USD en ingresos financieros para bancos clientes.
+- Benchmark y optimización de metodologías analíticas generando más de USD 3M en ingresos marginales para entidades financieras en Latinoamérica.
 
-- Desarrollo de modelo de propensión en Python (regresión logística) para identificar clientes con alta probabilidad de tomar un crédito, validado con pruebas A/B.
+- Desarrollo de modelos de propensión en Python utilizando regresión logística y validación mediante pruebas A/B.
 
-- Análisis estadísticos y de tendencias con SQL y Power BI para mejoras en procesos financieros de bancos de LatAm (Perú, México, Canadá y Panamá).
+- Análisis de datos con SQL y Power BI para optimización de procesos financieros en Perú, México, Canadá y Panamá.
+
+
+
+## **Python & SQL Instructor**, DMC Perú -- Lima, Perú
+
+Nov 2024 – May 2026
+
+- Docente part-time de Python y SQL con enfoque en analytics, estadística aplicada y data storytelling.
 
 
 
@@ -89,8 +74,6 @@ Ene 2024 – Ene 2025
 
 - Promedio: Mayor a 18/20
 
-- Cursos: Análisis de Datos, Visualización, Machine Learning, Big Data
-
 
 
 ## **Universidad Peruana de Ciencias Aplicadas (UPC)**, Bachiller en Finanzas con Especialización en Ciencia de Datos -- Lima, Perú
@@ -98,19 +81,15 @@ Ene 2019 – Dic 2024
 
 - Promedio: Mayor a 16/20 — Lista del Decano, Décimo Superior
 
-- Cursos: Econometría, Ciencia de Datos, Finanzas Corporativas, Contabilidad
 
 
+# Certificaciones
+- **Pricing & Revenue Management** — Pacifico Business School
 
-## **IPAE**, Egresado en Administración de Empresas -- Lima, Perú
-Ene 2016 – Jun 2018
-
-- Promedio: Mayor a 17/20 — Tercio Superior
-
-
+- **AI Engineer Diplomado** — DMC Perú (en curso)
 
 # Habilidades
-**IA / GenAI:** LLMs, Claude (Anthropic), Ingeniería de Prompts, IA Agéntica, Databricks, MLflow
+**IA / GenAI:** LLMs, Claude (Anthropic), Prompt Engineering, Agentic AI, Databricks, MLflow
 
 **Programación:** Python (Pandas, Polars, Scikit-Learn, XGBoost, PySpark), R, SQL
 
@@ -118,15 +97,6 @@ Ene 2016 – Jun 2018
 
 **Visualización:** Power BI, Tableau, Matplotlib, Plotly
 
-**Cloud & Herramientas:** Azure, Databricks, Power Automate, SSIS, Git, Model Serving
+**Cloud & Herramientas:** Azure, Databricks, Power Automate, Git, Model Serving
 
 **Idiomas:** Español (nativo), Inglés (avanzado), Francés (avanzado), Portugués (intermedio)
-
-# Certificaciones
-- **Pricing & Revenue Management** — Pacifico Business School
-
-- **Data Analyst Career** — Platzi (18 cursos: NumPy, Pandas, Sklearn, SQL, Power BI)
-
-- **Machine Learning with Python** — IBM (16 hrs)
-
-- **Estadística Descriptiva para Ciencia de Datos** — Platzi
