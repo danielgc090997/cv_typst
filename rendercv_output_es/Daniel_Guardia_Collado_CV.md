@@ -9,9 +9,7 @@
 Analista Senior de Datos e Ingeniero de IA en BCP (principal banco del Perú) con experiencia construyendo soluciones GenAI end-to-end en Databricks usando LLMs. Formación en finanzas y ciencia de datos, con dominio de Python, SQL, Polars y Power BI. Actualmente desarrollando pipelines de IA agéntica para analytics de banca mayorista.
 
 # Experiencia Laboral
-## **Banco de Crédito del Perú (BCP)**, Analista Senior de Pricing & Datos / Ingeniero de IA
-
-Lima, Perú
+## **Analista Senior de Pricing & Datos / Ingeniero de IA**, Banco de Crédito del Perú (BCP) -- Lima, Perú
 
 May 2025 – Presente
 
@@ -27,11 +25,9 @@ May 2025 – Presente
 
 
 
-## **DMC Perú**, Docente Python & SQL
+## **Docente Python & SQL**, DMC Perú -- Lima, Perú
 
-Lima, Perú
-
-Nov 2024 – May 2025
+Nov 2024 – May 2026
 
 - Dictado de cursos de Python con enfoque en estadística, análisis exploratorio, visualización de datos y storytelling.
 
@@ -39,9 +35,7 @@ Nov 2024 – May 2025
 
 
 
-## **Intelica Consulting**, Ingeniero de Analytics de Datos
-
-Lima, Perú
+## **Ingeniero de Analytics de Datos**, Intelica Consulting -- Lima, Perú
 
 Ene 2025 – May 2025
 
@@ -51,9 +45,7 @@ Ene 2025 – May 2025
 
 
 
-## **Santander Perú - Surgir**, Analista de Datos
-
-Lima, Perú
+## **Analista de Datos**, Santander Perú - Surgir -- Lima, Perú
 
 Jul 2024 – Ene 2025
 
@@ -67,9 +59,7 @@ Jul 2024 – Ene 2025
 
 
 
-## **Grupo BC - Cibergestión**, Analista de Negocios Junior
-
-Lima, Perú
+## **Analista de Negocios Junior**, Grupo BC - Cibergestión -- Lima, Perú
 
 Mar 2024 – Jul 2024
 
@@ -81,9 +71,7 @@ Mar 2024 – Jul 2024
 
 
 
-## **Ernst & Young Perú**, Analista de Negocios
-
-Lima, Perú
+## **Analista de Negocios**, Ernst & Young Perú -- Lima, Perú
 
 May 2023 – Mar 2024
 
@@ -96,14 +84,7 @@ May 2023 – Mar 2024
 
 
 # Educación
-## **Universidad Nacional de Ingeniería (UNI)**, Business Intelligence & Business Analytics
-
-**Especialización**
-
-
-Lima, Perú
-
-
+## **Universidad Nacional de Ingeniería (UNI)**, Especialización en Business Intelligence & Business Analytics -- Lima, Perú
 Ene 2024 – Ene 2025
 
 - Promedio: Mayor a 18/20
@@ -112,14 +93,7 @@ Ene 2024 – Ene 2025
 
 
 
-## **Universidad Peruana de Ciencias Aplicadas (UPC)**, Finanzas con Especialización en Ciencia de Datos
-
-**Bachiller**
-
-
-Lima, Perú
-
-
+## **Universidad Peruana de Ciencias Aplicadas (UPC)**, Bachiller en Finanzas con Especialización en Ciencia de Datos -- Lima, Perú
 Ene 2019 – Dic 2024
 
 - Promedio: Mayor a 16/20 — Lista del Decano, Décimo Superior
@@ -128,14 +102,7 @@ Ene 2019 – Dic 2024
 
 
 
-## **IPAE**, Administración de Empresas
-
-**Egresado**
-
-
-Lima, Perú
-
-
+## **IPAE**, Egresado en Administración de Empresas -- Lima, Perú
 Ene 2016 – Jun 2018
 
 - Promedio: Mayor a 17/20 — Tercio Superior
